@@ -1,4 +1,9 @@
 
+// let num=3;
+// console.log("hola tonotos");
+// console.log("hola tonotos con doble comilla")
+// console.log(`hola tonotos con este raro ${num}`)
+
 let puertas = 4;
 let prendido = false;
 let kilometraje = 164000
